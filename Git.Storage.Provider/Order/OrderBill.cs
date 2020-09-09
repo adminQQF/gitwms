@@ -30,7 +30,6 @@ using Git.Storage.Entity.Order;
 using Git.Storage.Entity.Store;
 using Git.Framework.Resource;
 using Git.Framework.Json;
-using System.Net.Http;
 using System.Data;
 using Git.Storage.Provider.Base;
 

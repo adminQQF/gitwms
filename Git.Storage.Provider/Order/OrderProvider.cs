@@ -16,21 +16,12 @@
 
 using Git.Framework.Log;
 using Git.Storage.Entity.Order;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Git.Framework.DataTypes.ExtensionMethods;
 using Git.Framework.ORM;
 using Git.Storage.Entity.Store;
 using Git.Framework.DataTypes;
-using Git.Framework.Json;
-using Git.Storage.Common;
-using System.Net.Http;
-using Git.Framework.Resource;
-using System.Transactions;
-using Newtonsoft.Json.Linq;
-using Newtonsoft.Json;
 
 namespace Git.Storage.Provider.Order
 {
